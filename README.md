@@ -1,17 +1,16 @@
-## EchoExtractor(EF) - Extremely fast document processor
+## EFEx - Ejection Fraction Ex - Extremely fast document processor
 
 
-EFExtractor Pipeline is designed to find left ventricular ejection fraction measurements in clinical text.
+EFEx Pipeline is designed to find left ventricular ejection fraction measurements in clinical text.
+EFEx is based on Leo architecture extending UIMA AS.  For more info on Leo see [ http://department-of-veterans-affairs.github.io/Leo/userguide.html ]
 
-EchoExtractor_EF is based on Leo architecture extending UIMA AS.  For more info on Leo see [ http://department-of-veterans-affairs.github.io/Leo/userguide.html ]
-
-To use EchoExtractor_EF :
+To use EFEx :
 
   1.  Follow the instructions to install and configure UIMA AS Steps 2.1-2.9 on page [ http://department-of-veterans-affairs.github.io/Leo/userguide.html#/a2_Installation_and_Configuration_of_Leo-Example ] .  
   
   2. Start UIMA AS Broker.
      
-  3. Configure EchoExtractor_EF reader and listeners.
+  3. Configure EFEx reader and listeners.
     
     3.1 Three readers are available:
      
