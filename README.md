@@ -1,4 +1,4 @@
-## EFEx - Ejection Fraction Ex - Extremely fast document processor
+## EFEx - Ejection Fraction Extractor - Extremely fast document processor
 
 
 EFEx Pipeline is designed to find left ventricular ejection fraction measurements in clinical text.
